@@ -1,4 +1,4 @@
-##Installation
+## Installation
 * Install python 3.5 or later from [https://www.python.org/downloads/](https://www.python.org/downloads/).
   DO NOT INSTALL FROM THE WINDOWS STORE
     * Make sure to add python to path while installing it (check the box beside "Add python 3 to PATH" in the installation wizard)

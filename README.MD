@@ -28,4 +28,5 @@ or
   
 ## Note
 * Your output file will be generated in the same directory as the script
-* DO NOT EDIT on the excel file. In case you wold like to make any calculations, copy the file elsewhere and do so, or make sure to restore the original file after editing it in te same directory
+* DO NOT EDIT the excel file. In case you would like to make any calculations, copy the file elsewhere and do so, or make sure to restore the original file after editing it in the same directory
+* The file containing the output will be called `local_VWAP_data.xlsx`

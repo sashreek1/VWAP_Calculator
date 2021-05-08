@@ -2,7 +2,7 @@
 * Install python 3.5 or later from [https://www.python.org/downloads/](https://www.python.org/downloads/).
   DO NOT INSTALL FROM THE WINDOWS STORE
     * Make sure to add python to path while installing it (check the box beside "Add python 3 to PATH" in the installation wizard)
-    * click on Install Now  
+    * Click on Install Now  
     
     ![Screenshot](img/installer.jpg)
     
@@ -14,7 +14,7 @@
 * Open the main.py file with IDLE
 * Change `number_shares_2019` value at line 167 to number of shares you bought in 2019 (bottom of the file)
 * Change `number_shares_2020` value at line 168 to number of shares you bought in 2020 (bottom of the file)
-* Change `company_name` value to the name of the company as depicted in [https://www.moneycontrol.com/stocks/histstock.php?classic=true](https://www.moneycontrol.com/stocks/histstock.php?classic=true)
+* Change `company_name` value to the name of the desired company as depicted in the drop down at [https://www.moneycontrol.com/stocks/histstock.php?classic=true](https://www.moneycontrol.com/stocks/histstock.php?classic=true)
 
 
 ## Running the script
@@ -26,5 +26,6 @@ or
   
 * Right click the `main.py` file, select `open with` and choose `python`  
   
+## Note
 * Your output file will be generated in the same directory as the script
 * DO NOT EDIT on the excel file. In case you wold like to make any calculations, copy the file elsewhere and do so, or make sure to restore the original file after editing it in te same directory
